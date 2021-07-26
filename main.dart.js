@@ -56025,12 +56025,12 @@ $C:"$0",
 $R:0,
 $S:0}
 L.a1D.prototype={
-$0:function(){this.a.df("https://www.linkedin.com/in/tushar-nikam-a29a97131/")},
+$0:function(){this.a.df("https://www.linkedin.com/in/imkiran/")},
 $C:"$0",
 $R:0,
 $S:0}
 L.a1E.prototype={
-$0:function(){this.a.df("https://twitter.com/champ_96k")},
+$0:function(){this.a.df("https://twitter.com/imKiranSuvarna")},
 $C:"$0",
 $R:0,
 $S:0}
